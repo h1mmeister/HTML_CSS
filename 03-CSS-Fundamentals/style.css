@@ -1,35 +1,47 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
 h1 {
   color: darkblue;
-  font-size: 30px;
-  font-family: sans-serif;
+  font-size: 28px;
   text-transform: uppercase;
   font-style: normal;
 }
 
 h2 {
-  font-size: 25 px;
-  font-family: sans-serif;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 22px;
-  font-family: sans-serif;
+  font-size: 21px;
 }
 
 h4 {
-  font-size: 19px;
-  font-family: sans-serif;
+  font-size: 18px;
   text-transform: uppercase;
   text-align: center;
 }
 
 p {
-  font-size: 18px;
-  font-family: sans-serif;
+  font-size: 17px;
   line-height: 1.5;
 }
 
 li {
   font-size: 16px;
-  font-family: sans-serif;
+}
+
+footer p {
+  font-size: 14px;
+}
+
+article header p {
+  font-style: italic;
+  font-size: 16px;
 }
