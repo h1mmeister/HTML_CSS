@@ -1,3 +1,35 @@
 h1 {
   color: darkblue;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 25 px;
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-size: 19px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+li {
+  font-size: 16px;
+  font-family: sans-serif;
 }
