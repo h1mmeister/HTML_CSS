@@ -79,3 +79,13 @@ aside {
   border: 5px solid darkblue;
 }
 /* we can use something like border-top, border-bottom */
+/* 
+li:first-child {
+  font-weight: bold;
+} */
+
+/* we have last-child and nth-child(with number) */
+
+article p:last-child {
+  color: rgb(2, 39, 39);
+}
