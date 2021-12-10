@@ -5,10 +5,16 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3 {
+  color: darkblue;
 }
 
 h1 {
-  color: darkblue;
   font-size: 28px;
   text-transform: uppercase;
   font-style: normal;
@@ -63,3 +69,13 @@ li {
 .related {
   list-style: none;
 }
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border: 5px solid darkblue;
+}
+/* we can use something like border-top, border-bottom */
