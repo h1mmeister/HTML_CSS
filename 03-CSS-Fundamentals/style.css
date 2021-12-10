@@ -41,7 +41,12 @@ footer p {
   font-size: 14px;
 }
 
-article header p {
+/* article header p {
+  font-style: italic;
+  font-size: 16px;
+} */
+
+#author {
   font-style: italic;
   font-size: 16px;
 }
